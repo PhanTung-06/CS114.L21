@@ -4,7 +4,7 @@
 * [ Giảng viên hướng dẫn](#giangvien)
 * [ Thành viên nhóm](#thanhvien)
 * [ Quá trình học](#quatrinh)
-* [ Đồ án môn học](#doan)
+
 ### GIỚI THIỆU MÔN HỌC
 <a name="gioithieu"></a>
 * **Tên môn học**: Máy học - Machine Learning
@@ -18,7 +18,7 @@
 * **ThS.Phạm Nguyễn Trường An** - *truonganpn@uit.edu.vn*
 
 ### THÀNH VIÊN NHÓM
-<a name="thanhvien"></a>u
+<a name="thanhvien"></a>
 | STT | MSSV | Họ và Tên | Github | Email |
 | :---: | --- | --- | --- | --- |
 | 1 | 19522495 | Phan Tung |[PhanTung-06](https://github.com/PhanTung-06)| *19522495@gm.uit.edu.vn* |
@@ -27,3 +27,4 @@
 ### QUÁ TRÌNH HỌC
 <a name ="quatrinh"></a>
  1. Tuần 1 - warm up 
+
