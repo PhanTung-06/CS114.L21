@@ -23,8 +23,8 @@
 
 ### THÀNH VIÊN NHÓM
 <a name="thanhvien"></a>
-| STT | Họ tên | MSSV | Github | Email |
-| :---: | --- | --- | --- | --- | --- |
+| STT | Họ tên | MSSV | Email | Github | Email |
+| :---: | --- | --- | --- | --- |
 | 1 | 19522495 | Phan Tung |[PhanTung-06](https://github.com/PhanTung-06)| *19522495@gm.uit.edu.vn* |
 | 2 | 19521438 | Huỳnh Thị Mỹ Duyên |[DienUIT](https://github.com/DienUIT)|*19521438@gm.uit.edu.vn* |
 
