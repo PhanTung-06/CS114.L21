@@ -38,7 +38,6 @@
 - Output:
     - Năng suất cây trồng (tấn/ha)
 - Thu thập data: 
-
     - Dữ liệu lượng mưa thu thập từ trung tâm khí tượng quốc gia tại khu vực đó và lượng phân bón được sử dụng trong các mùa vụ trước. 
 - Xử lý data: 
     - Tạo file dữ liệu dạng .csv gồm 3 cột: Lượng mưa, Lượng phân bón, Năng suất mùa vụ. 
