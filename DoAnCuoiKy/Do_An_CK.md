@@ -76,5 +76,5 @@
 
 ![Indication](https://github.com/PhanTung-06/CS114.L21/tree/main/DoAnCuoiKy/classes/class8.png?raw=true)
 
-##**3. Mô tả về đặc trưng**
+## **3. Mô tả về đặc trưng**
 - Updating...
