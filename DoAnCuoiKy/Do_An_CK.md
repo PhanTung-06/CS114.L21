@@ -13,7 +13,7 @@
 - Huỳnh Thị Mỹ Duyên - 19521438
 - Hoàng Tiến Dũng - 19521388
 
-##**1. Mô tả bài toán**  
+## **1. Mô tả bài toán**  
 - Trong sự phát triển không ngừng của nhân loại, thì xe tự hành (automatic car) là một trong những phát minh rất tuyệt vời. Và nó tập trung nghiên cứu vào 2 lĩnh vực chính: phát hiện làn đường và nhận dạng đối tượng.
   
 - Và nhóm chúng em lựa chọn nhận dạng biển báo giao thông (traffic signs detection) làm đề tài cho đồ án cuối kỳ. Từ đây, có thể nghiên cứu, phát triển và ứng dụng vào hệ thống của xe tự hành.
@@ -22,7 +22,7 @@
 
 **Output:** Video chứa bounding boxes và nhãn cho từng bounding box đó.
 
-##**2. Mô tả bộ dữ liệu**  
+## **2. Mô tả bộ dữ liệu**  
 2.1. Thu thập dữ liệu:
 - Thu thập từ internet, video từ camera hành trình với các điều kiện khác nhau: trời mưa, trời nắng, ban đêm,...
 - Bộ dữ liệu đang được thu thập với **8 classes** cụ thể là: No entry, No parking / waiting, No turning, Max Speed, Other prohibition signs, Warning, Mandatory, Indication. 
