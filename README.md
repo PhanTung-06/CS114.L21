@@ -22,7 +22,7 @@
 | STT | MSSV | Họ và Tên | Github | Email |
 | :---: | --- | --- | --- | --- |
 | 1 | 19522495 | Phan Tung |[PhanTung-06](https://github.com/PhanTung-06)| *19522495@gm.uit.edu.vn* |
-| 2 | 19521438 | Huỳnh Thị Mỹ Duyên |[HuynhThiMyDuyen](https://github.com/DienUIT)|*19521438@gm.uit.edu.vn* |
+| 2 | 19521438 | Huỳnh Thị Mỹ Duyên |[HuynhThiMyDuyen](https://github.com/HuynhThiMyDuyen)|*19521438@gm.uit.edu.vn* |
 | 3 | 19521388 | Hoàng Tiến Dũng | [htdung167](https://github.com/htdung167) |*19521388@gm.uit.edu.vn* |
 
 ### QUÁ TRÌNH HỌC
